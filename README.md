@@ -41,7 +41,7 @@ Fraudelent categories
 ## Models
 
 
-<img src="https://github.com/tylerjwoods/shut_the_fraud_down/blob/master/images/ROC_curves.jpeg" width="400" height="400" title="ROC Curve" />
+<img src="https://github.com/tylerjwoods/shut_the_fraud_down/blob/master/images/ROC_curves.png" width="400" height="400" title="ROC Curve" />
 
 
 
